@@ -1,0 +1,21 @@
+.zero {
+    color: violet;
+}
+
+.negative {
+    color: red;
+}
+
+.positive {
+    color: blue
+}
+
+.div-btns>.btn:not(:last-child) {
+    margin-right: 10px;
+}
+
+#app {
+    width: max-content;
+    height: max-content;
+}
+
